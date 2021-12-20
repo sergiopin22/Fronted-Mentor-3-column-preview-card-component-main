@@ -96,12 +96,12 @@ button:hover{
 @media only screen and (min-width: 1440px) {
     .container{
         width:80%;
-        height:200vh;
+        height:100vh;
         flex-direction:row;
     }
     .card{
         width:33.3%;
-        height:40%;
+        height:80%;
     }
     .card_sedans{
         border-radius: 0;
