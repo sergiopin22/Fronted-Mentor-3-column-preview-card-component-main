@@ -93,7 +93,7 @@ button:hover{
     transition:1s;
 }
 
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 1200px) {
     .container{
         width:80%;
         height:100vh;
